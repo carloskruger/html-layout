@@ -1,0 +1,18 @@
+.shapes {
+}
+.rect-small {
+	width: 400px;
+	height: 200px;
+	background-color: forestgreen;
+	display: inline-block;
+}
+.rect-big {
+}
+.circle {
+}
+
+.dots {
+}
+
+.yellow-pad {
+}
