@@ -1,0 +1,42 @@
+.row {
+	height: 100px;
+	width: 100vw;
+}
+
+.big-row {
+	height: 200px;
+	width: 100vw;
+	background-color: #fff;
+	box-sizing: border-box;
+	padding: 50px;
+}
+
+.row-1 {
+	background-color: #d8d8d8;
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+.row-3 {
+	background-color: skyblue;
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+.row-4 {
+	background-color: turquoise;
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+.row-5 {
+	background-color: yellowgreen;
+	padding: 25px;
+	box-sizing: border-box;
+}
+
+.row-6 {
+	background-color: yellow;
+	padding: 25px;
+	box-sizing: border-box;
+}
